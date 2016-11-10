@@ -1,0 +1,22 @@
+#left {
+  background-color: red;
+}
+#right {
+  background-color: blue;
+  color: white;
+}
+#message {
+  min-height: 200px;
+}
+#top {
+  margin-top: 12px;
+}
+.space {
+  margin-left: 14px;
+}
+#login {
+  background-color: green;
+  z-index: 10;
+  border-radius: 8px;
+  border: 2px solid black;
+}
