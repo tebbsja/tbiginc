@@ -1,0 +1,7 @@
+#Mon Nov 07 18:39:51 MST 2016
+base.0=/Users/Austin/Desktop/Asteroids/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfabb228c277e69c3d5d4bcecdabf2af055077f9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Austin/Desktop/Asteroids/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b535757913669f3ca08e4c24592b62e3cc66b01b/classes.dex
+base.1=/Users/Austin/Desktop/Asteroids/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b535757913669f3ca08e4c24592b62e3cc66b01b
+file.0=/Users/Austin/Desktop/Asteroids/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfabb228c277e69c3d5d4bcecdabf2af055077f9/classes.dex

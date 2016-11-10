@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Austin/Desktop/Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/Austin/Desktop/Asteroids/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-19.1.0_095f7bd6aad0d5509becee7264f7dee22996ff33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Austin/Desktop/Asteroids/app/libs/json-simple-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="/Users/Austin/Desktop/Asteroids/app/build/intermediates/transforms/dex/debug/folders/1000/2/json-simple-1.1.1_7dceaafd1194cb81ed7806cef371ae56b0bc549f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Austin/Desktop/Asteroids/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a45ad5978f9b8b903df980d1e7ac62b55380f753">
+        <dex dex="/Users/Austin/Desktop/Asteroids/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b535757913669f3ca08e4c24592b62e3cc66b01b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Austin/Desktop/Asteroids/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4e4170d85371cc616bf737e3a0cf137fd737d5d0">
+        <dex dex="/Users/Austin/Desktop/Asteroids/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfabb228c277e69c3d5d4bcecdabf2af055077f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Austin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/Austin/Desktop/Asteroids/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_97d57bd25f22f3be0c1eb031d5c7b8faa3c3bf1e/classes.dex" />
+    </item>
+
+</items>
