@@ -1,0 +1,33 @@
+HOW TO USE THE IMAGE EDITOR JAVA PROGRAM TO HELP YOU TEST YOUR IMAGE EDITOR
+
+1. Open the jar file via the command line or by double clicking on it.
+2. Select where your .java files are located
+	**Please note that this means only the ones you coded.
+3. Click copy to allow the program to copy the files into a directory it can access.
+4. Click Compile to compile the program to run inside of the program.
+5. Select a PPM file for the PPM File Location
+6. Select a destination for the output file once it is converted.
+7. Select one of the buttons on the bottom to convert your image to that.
+	**Motion blur you can change
+	
+Names of the output file
+**********************
+invert: invertOutput.ppm
+grayscale: grayscaleOutput.ppm
+emboss: embossOutput.ppm
+MotionBlur: motionBlurOutput.ppm
+**********************
+
+Please note that this code is not meant to debug but, to help you look at the output of your
+program. This will simply allow you to look at the output ppm file with a text editor on 
+your computer. If you have any issues with it, please feel free to tell Spencer (The TA) about it.
+He will try his best to squash any bugs that you run into or, implement any good suggestions. If a 
+suggestion you give is included and you are the first to tell him, he will probably give you a
+shout-out in the Guide.txt unless you wish to remain annoymous.
+
+Remember, this is just a side project of Spencers and not offically supported by the class. That means,
+if this program does not work for you, you will still have to finish the project by the due date.
+
+Release 1.0
+	First Release of the Program.
+	Still has some bugs like buttons not disabling correctly.
